@@ -1,2 +1,2 @@
 # WeatherApp
-# with the use of wwether APIS and full express and nodejs
+*with the use of weather APIS and full express and nodejs*
