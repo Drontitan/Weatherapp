@@ -14,7 +14,7 @@ submitBtn.addEventListener('click',async(event)=>{
     }
     else{
         try{
-          let url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=440daf475abd2d35d9f9bc2c15d81cd1`;
+          let url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=`😎
           const response = await fetch(url);
           const data = await response.json();
           const arrdata = [data];
